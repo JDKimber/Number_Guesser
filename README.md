@@ -2,6 +2,8 @@
 
 **Version 1.0.0**
 
+Simple app written in vanilla javascript using skeleton.js
+
 ---
 
 - Player must guess a number between a min and max
